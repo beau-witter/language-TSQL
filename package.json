@@ -1,0 +1,11 @@
+{
+  "name": "language-tsql",
+  "version": "0.0.1",
+  "description": "TSQL is a programming language for database communication and commands with MSSQL",
+  "repository": "https://github.com/beau-witter/language-TSQL",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
