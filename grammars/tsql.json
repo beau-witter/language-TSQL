@@ -1,9 +1,4 @@
 {
-  "information_for_contributors": [
-    "Since this file was generated based on https://github.com/Microsoft/vscode-mssql/blob/master/syntaxes/SQL.plist make any desired changed against that repo.",
-    "If the change is approved there, an Issue can be created here to pull in the changes (with the changes included in the Issue)."
-  ],
-  "version": "https://github.com/Microsoft/vscode-mssql/commit/c8effddd6a9df117f3ed45b60b487163950a7ea5",
   "name": "TSQL",
   "scopeName": "source.tsql",
   "patterns": [
