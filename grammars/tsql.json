@@ -515,6 +515,6 @@
       ]
     }
   },
-  "scopeName": "source.sql",
+  "scopeName": "source.tsql",
   "uuid": "C49120AC-6ECC-11D9-ACC8-000D93589AF6"
 }
